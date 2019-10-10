@@ -1,0 +1,14 @@
+************* Module affinityJenkins
+__init__.py:1: [C0103(invalid-name), ] Module name "affinityJenkins" doesn't conform to snake_case naming style
+************* Module affinityJenkins.compute_highest_affinity
+compute_highest_affinity.py:1: [C0111(missing-docstring), ] Missing module docstring
+compute_highest_affinity.py:8: [C0111(missing-docstring), highest_affinity] Missing function docstring
+compute_highest_affinity.py:8: [W0613(unused-argument), highest_affinity] Unused argument 'time_list'
+************* Module affinityJenkins.tests.controlled_test
+tests/controlled_test.py:1: [C0111(missing-docstring), ] Missing module docstring
+tests/controlled_test.py:4: [C0111(missing-docstring), ControlledTests] Missing class docstring
+tests/controlled_test.py:5: [C0111(missing-docstring), ControlledTests.test1] Missing method docstring
+
+-----------------------------------
+Your code has been rated at 7.41/10
+
